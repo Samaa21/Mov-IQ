@@ -4,3 +4,6 @@ ease
 - Implemented Open CV technology for ensuring an impressive 85 % accuracy for real-time
 posture feedback during exercises.
 - Created step-by-step guides with YouTube recommendations , ensuring effective workouts
+
+## Main Page
+
