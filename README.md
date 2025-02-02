@@ -8,8 +8,8 @@ posture feedback during exercises.
 ## Main Page
 
 ![Screenshot 2025-02-02 193519](https://github.com/user-attachments/assets/458904bd-7cc6-4096-81d1-916b697025e5)
+![Screenshot 2025-02-02 193537](https://github.com/user-attachments/assets/306e6314-6c50-4f9a-a1f3-1ee7737b4883)
 
-![Uploading Screenshot 2025-02-02 193537.png…]()
 
 ### YogZone
 
