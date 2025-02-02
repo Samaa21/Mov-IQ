@@ -7,3 +7,13 @@ posture feedback during exercises.
 
 ## Main Page
 
+![Screenshot 2025-02-02 193519](https://github.com/user-attachments/assets/458904bd-7cc6-4096-81d1-916b697025e5)
+
+![Uploading Screenshot 2025-02-02 193537.png…]()
+
+### YogZone
+
+![Screenshot 2025-02-02 193705](https://github.com/user-attachments/assets/8f4b57fa-35fd-4974-9581-82abf5359032)
+
+### Exercise
+![Screenshot 2025-02-02 193643](https://github.com/user-attachments/assets/1e6b34c9-3cc7-48f4-8e07-03412dcb1dee)
